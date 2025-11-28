@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b6ea31c1753f0664",
+        "id": "c9f72d7f033948ff",
         "type": "tabs",
         "children": [
           {
-            "id": "ef28eafa8cd61b5e",
+            "id": "8291b7aa4ef38e86",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/events/accra/bars-on-bars.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "bars-on-bars"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/events/accra/bars-on-bars.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bars-on-bars"
+              "title": "Outline"
             }
           }
         ],
@@ -170,8 +165,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef28eafa8cd61b5e",
+  "active": "8291b7aa4ef38e86",
   "lastOpenFiles": [
+    "content/events/accra/bars-on-bars.md",
+    "content/events/accra/CarPool.md",
     "content/patterns/action-learning.md",
     "collaborators/communities-of-place/hub/hubs.md",
     "collaborators/communities-of-place/hub",
@@ -211,8 +208,6 @@
     "evaluation day2.jpg",
     "evaluation day1 1.jpg",
     "evaluation day1.jpg",
-    "content/patterns/sociocratic organising.md",
-    "content/patterns/aspects.md",
     "patterns",
     "index",
     "public/noah.jpg",
