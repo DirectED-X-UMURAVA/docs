@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OBSIDIAN_SETUP.md",
+                "file": "HUB Information.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OBSIDIAN_SETUP"
+              "title": "HUB Information"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OBSIDIAN_SETUP.md",
+                "file": "HUB Information.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OBSIDIAN_SETUP"
+              "title": "Outline of HUB Information"
             }
           }
         ],
@@ -172,12 +172,13 @@
   },
   "active": "8680f0961fa46f3c",
   "lastOpenFiles": [
+    "OBSIDIAN_SETUP.md",
+    "HUB Information.md",
     "scripts/record/lib/introOutro/outro.png",
     "content/collaborators/participants/developers.md",
     "content/collaborators/communities-of-place/hub/hub team.md",
     "content/events/accra/bin-to-cash.md",
     "content/Practices/Appreciative Inquiry.md",
-    "Untitled.md",
     "content/events/accra/bars-on-bars.md",
     "content/events/accra/CarPool.md",
     "content/patterns/action-learning.md",
@@ -187,7 +188,6 @@
     "collaborators/communities-of-practice/practice-networks.md",
     "collaborators/communities-of-practice",
     "collaborators",
-    "OBSIDIAN_SETUP.md",
     "content/patterns/action-learning journeys.md",
     "add.md",
     "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study/c. Capital Distribution.md",
@@ -215,7 +215,6 @@
     "evaluation day1.jpg",
     "patterns",
     "index",
-    "public/noah.jpg",
     "content/collaborators/index.mdx",
     "content/collaborators/Facilitators/index.mdx"
   ]
