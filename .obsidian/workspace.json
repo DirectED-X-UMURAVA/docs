@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c9f72d7f033948ff",
+        "id": "e2956336b99941e2",
         "type": "tabs",
         "children": [
           {
-            "id": "8291b7aa4ef38e86",
+            "id": "8680f0961fa46f3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/events/accra/bars-on-bars.md",
+                "file": "OBSIDIAN_SETUP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "bars-on-bars"
+              "title": "OBSIDIAN_SETUP"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/events/accra/bars-on-bars.md",
+                "file": "OBSIDIAN_SETUP.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bars-on-bars"
+              "title": "Outline of OBSIDIAN_SETUP"
             }
           }
         ],
@@ -170,8 +170,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8291b7aa4ef38e86",
+  "active": "8680f0961fa46f3c",
   "lastOpenFiles": [
+    "scripts/record/lib/introOutro/outro.png",
+    "content/collaborators/participants/developers.md",
+    "content/collaborators/communities-of-place/hub/hub team.md",
     "content/events/accra/bin-to-cash.md",
     "content/Practices/Appreciative Inquiry.md",
     "Untitled.md",
@@ -187,7 +190,6 @@
     "OBSIDIAN_SETUP.md",
     "content/patterns/action-learning journeys.md",
     "add.md",
-    "content/collaborators/communities-of-place/hub/hub team.md",
     "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study/c. Capital Distribution.md",
     "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study/b. Evaluation.md",
     "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study/a. Overview.md",
@@ -200,8 +202,6 @@
     "content/processes/evaluation/1. Our Approach/b. The Three-Phase Framework.md",
     "content/processes/evaluation/index.md",
     "content/processes/evaluation/1. Our Approach/index.md",
-    "content/processes/evaluation/1. Our Approach/a. Foundations.md",
-    "content/processes/evaluation/Philosophy.md",
     "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study",
     "Pasted image 20250630204615.png",
     "Pasted image 20250630204254.png",
