@@ -1,0 +1,9 @@
+### **Executive Summary**
+
+**CupTrace** is a digital, farmer-centered traceability and governance platform designed to transform Rwanda’s coffee and tea value chains. Although these sectors are among the country’s most important agricultural industries, supporting thousands of rural households, many farmers still operate with limited visibility, influence, and trust in the journey their products take from farm to international markets.
+
+Despite advances made by institutions like NAEB, farmers continue to face major information gaps: they cannot track the movement of their coffee or tea after delivery, verify the quality or quantity recorded at washing stations, confirm whether payments match true market value, or understand how cooperatives manage and distribute revenues. Manual record-keeping further contributes to errors, disputes, and inefficiencies, while cooperatives struggle to prove product authenticity to global buyers who increasingly demand full traceability.
+
+CupTrace addresses these challenges by introducing a unified, transparent digital platform that enables full product traceability, cooperative accountability, and real-time farmer participation. Farmers can track their individual batches across every step of the supply chain, access accurate earnings data, receive market insights, and participate in cooperative decisions through digital voting. Cooperatives and washing stations benefit from streamlined reporting, improved data accuracy, and digital records that enhance credibility with international buyers. Regulators also gain access to reliable data for policy-making and quality improvement.
+
+By bridging information gaps and empowering all value chain participants, CupTrace strengthens trust, transparency, and efficiency—unlocking greater economic opportunities for farmers and supporting Rwanda’s long-term competitiveness in global coffee and tea markets.
