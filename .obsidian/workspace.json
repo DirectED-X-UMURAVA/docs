@@ -4,221 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "e2956336b99941e2",
+        "id": "cb6e2b8034415325",
         "type": "tabs",
         "children": [
           {
-            "id": "8680f0961fa46f3c",
+            "id": "3f9c2a5e178b43fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/events/summit/Roles, Responsibilities and Domains.md",
+                "file": "content/events/resilience.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Roles, Responsibilities and Domains"
+              "title": "resilience"
             }
           },
           {
-            "id": "ce320e897d9ed9a8",
+            "id": "e460f4bfcf97ffaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/HUB Information (DirectED X Umurava HUB).md",
+                "file": "Team Arrangements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HUB Information (DirectED X Umurava HUB)"
-            }
-          },
-          {
-            "id": "e0123fbb607d7541",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/HUB Information (DirectED X Umurava HUB).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HUB Information (DirectED X Umurava HUB)"
-            }
-          },
-          {
-            "id": "06a88982796024d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/⭐SAFE-SAVE_Blockchain Ibimina Platform by KryptoMina.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "⭐SAFE-SAVE_Blockchain Ibimina Platform by KryptoMina"
-            }
-          },
-          {
-            "id": "2c03fa2bd98c8bc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/☕ CupTrace.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "☕ CupTrace"
-            }
-          },
-          {
-            "id": "06669ba766420ef1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/🔐 Win Team.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🔐 Win Team"
-            }
-          },
-          {
-            "id": "d4c37da5c2972b78",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/🩺🏥 AfroMedChain.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🩺🏥 AfroMedChain"
-            }
-          },
-          {
-            "id": "f4c914abe8a3402a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/🔗ClearChain Crew.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🔗ClearChain Crew"
-            }
-          },
-          {
-            "id": "1806ec37ad2ca1e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/💻 ITSINDA TEAM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "💻 ITSINDA TEAM"
-            }
-          },
-          {
-            "id": "160c24a5c39fbaf2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/📖 FloxBlock.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "📖 FloxBlock"
-            }
-          },
-          {
-            "id": "25e3757f4382d26b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/🌍 Champs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🌍 Champs"
-            }
-          },
-          {
-            "id": "73a871b7cab2e8c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/🧬 Data Komeza.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🧬 Data Komeza"
-            }
-          },
-          {
-            "id": "a6f3292ca62ab19d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/☕ CupTrace.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "☕ CupTrace"
-            }
-          },
-          {
-            "id": "068b5533cae4b713",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/🌍 Champs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "🌍 Champs"
-            }
-          },
-          {
-            "id": "5ce4d75014936081",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/HUB Information (DirectED X Umurava HUB).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HUB Information (DirectED X Umurava HUB)"
+              "title": "Team Arrangements"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -237,7 +55,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -339,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/HUB Information (DirectED X Umurava HUB).md",
+                "file": "Team Arrangements.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HUB Information (DirectED X Umurava HUB)"
+              "title": "Outline of Team Arrangements"
             }
           }
         ],
@@ -367,37 +185,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bce36f6df86b5df2",
+  "active": "e460f4bfcf97ffaa",
   "lastOpenFiles": [
+    "content/events/resilience.md",
+    "Team Arrangements.md",
+    "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Hub Info",
+    "content/events/index.md",
+    "content/events/summit/Roles, Responsibilities and Domains.md",
+    "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Hub Info/HUB Information (DirectED X Umurava HUB).md",
     "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/🔐 Win Team.md",
-    "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/💻 ITSINDA TEAM.md",
     "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/🌍 Champs.md",
-    "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/⭐SAFE-SAVE_Blockchain Ibimina Platform by KryptoMina.md",
     "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/☕ CupTrace.md",
     "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/🧬 Data Komeza.md",
     "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/📖 FloxBlock.md",
+    "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/💻 ITSINDA TEAM.md",
     "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/🔗ClearChain Crew.md",
     "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/🩺🏥 AfroMedChain.md",
-    "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/HUB Information (DirectED X Umurava HUB).md",
+    "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/⭐SAFE-SAVE_Blockchain Ibimina Platform by KryptoMina.md",
+    "Untitled.md",
+    "HUB Information.md",
+    "H",
     "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams",
     "content/collaborators/communities-of-place/hub/DirectED Umurava HUB",
     "content/collaborators/communities-of-place/hub/HUB Information (DirectED X Umurava HUB) 1.md",
     "content/collaborators/communities-of-place/hub/hub team.md",
     "content/collaborators/communities-of-practice/north-star-transition/index.md",
-    "content/events/summit/Roles, Responsibilities and Domains.md",
-    "Untitled.md",
     "content/events/accra/bars-on-bars.md",
-    "content/events/index.md",
-    "content/events/resilience.md",
     "content/Practices/Regenerative Development & Design.md",
     "content/Practices/Role Play.md",
     "content/events/accra/CarPool.md",
-    "HUB Information.md",
     "OBSIDIAN_SETUP.md",
     "scripts/record/lib/introOutro/outro.png",
     "content/collaborators/participants/developers.md",
     "content/events/accra/bin-to-cash.md",
-    "content/Practices/Appreciative Inquiry.md",
     "collaborators/communities-of-place/hub",
     "collaborators/communities-of-place",
     "collaborators/communities-of-practice",
@@ -412,8 +232,6 @@
     "evaluation day3.jpg",
     "evaluation day2.jpg",
     "evaluation day1 1.jpg",
-    "evaluation day1.jpg",
-    "patterns",
-    "index"
+    "evaluation day1.jpg"
   ]
 }
