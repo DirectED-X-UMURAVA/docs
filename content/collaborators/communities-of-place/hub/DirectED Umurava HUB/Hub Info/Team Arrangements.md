@@ -7,3 +7,15 @@ At Umurava, our teams are tackling diverse and impactful challenges spanning fin
 We operate using structured collaboration methods, weekly learning and building rhythms, transparent documentation, and peer-driven exploration. These practices align closely with DirectEd’s core principles of **decentralization, autonomy, and shared learning**, ensuring that every participant grows both individually and as part of a collective.
 
 The DirectED Umurava Hub stands not only as a center for innovation but also as a launchpad for emerging talent—empowering each of the **10 teams** to contribute meaningful solutions and advance the future of blockchain innovation in Rwanda and beyond.
+
+## TEAMS
+1. ⭐ KryptoMina: SAFE-SAVE_Blockchain Ibimina Platform
+2. ☕ CupTrace
+3. 🔐 Win Team
+4. 🩺🏥 AfroMedChain
+5. 🔗ClearChain Crew
+6. 💻 ITSINDA TEAM
+7. 📖 FloxBlock
+8. 🌍 Champs
+9. 🧬 Data Komeza
+
