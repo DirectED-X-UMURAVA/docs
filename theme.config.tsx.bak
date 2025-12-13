@@ -1,0 +1,10 @@
+export const components = { Image };
+export const components = { Image, TeamCards };
+import TeamCards from '@/components/TeamCards'
+import Image from 'next/image'
+
+export const components = { Image };
+
+export const components = { Image, TeamCards };
+
+export const components = { Image, TeamCards };

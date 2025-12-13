@@ -1,2 +1,14 @@
+import Image from "next/image"
+import TeamCards from "@/components/TeamCards"
 
-export const components = { Image };
+const themeConfig = {
+  mdxComponents: {
+    Image,
+    TeamCards,
+  },
+}
+
+export default themeConfig
+
+
+
