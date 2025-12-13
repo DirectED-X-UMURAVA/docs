@@ -51,7 +51,7 @@ const OpenCollectiveIcon = ({ style, ...props }: IconProps) => (
       <img
         src="/logodesign.png"
         alt="Prisma Events Logo"
-        className="h-12 w-auto object-contain"
+        className="h-20 w-auto object-contain"
       />
     </div>
   }
@@ -60,32 +60,9 @@ const OpenCollectiveIcon = ({ style, ...props }: IconProps) => (
   chatLink="https://t.me/+9-UF8k9H8dBjNWFk"
   children={
     <div className="inline-flex items-center gap-4">
-      {/* X (Twitter) */}
-      <a
-        href="https://twitter.com/__prismaevents"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <FaXTwitter className={`${iconClasses} ${getRandomHoverColor()}`} />
-      </a>
-
-      {/* Open Collective */}
-      <a
-        href="https://opencollective.com/prisma-collective"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <OpenCollectiveIcon className={`${iconClasses} ${getRandomHoverColor()}`} />
-      </a>
-
-      {/* Calendar */}
-      <a
-        href="https://lu.ma/prisma"
-        target="_blank"
-        rel="noopener noreferrer"
-      >
-        <BsCalendarWeek className={`${iconClasses} ${getRandomHoverColor()}`} />
-      </a>
+      <FaXTwitter className={`${iconClasses} ${getRandomHoverColor()}`} />
+      <OpenCollectiveIcon className={`${iconClasses} ${getRandomHoverColor()}`} />
+      <BsCalendarWeek className={`${iconClasses} ${getRandomHoverColor()}`} />
     </div>
   }
   projectLink="https://github.com/prisma-collective/"
