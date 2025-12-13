@@ -1,8 +1,8 @@
 [
     {
-      "name": "Shik",
-      "role": "Evaluation",
-      "photo": "/shik.svg",
+      "name": "Promesse IREME",
+      "role": "HUB Lead",
+      "photo": "/promesse.jpg",
       "profile_card_link": "/processes/evaluation",
       "links": [
         { "label": "Meet", "url": "https://cal.com/shikharwah", "icon": "FaPhone" },
