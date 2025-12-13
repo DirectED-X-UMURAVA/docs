@@ -4,39 +4,123 @@
     "type": "split",
     "children": [
       {
-        "id": "cb6e2b8034415325",
+        "id": "ce80b81d4cc2d2eb",
         "type": "tabs",
         "children": [
           {
-            "id": "3f9c2a5e178b43fe",
+            "id": "ba9255e454a1ae47",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/events/resilience.md",
+                "file": "content/collaborators/Teams/E-Tsinda/Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resilience"
+              "title": "Overview"
             }
           },
           {
-            "id": "e460f4bfcf97ffaa",
+            "id": "f0a02a4d679cb87a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Hub Info/Team Arrangements.md",
+                "file": "content/collaborators/Teams/E-Tsinda/Community Essence Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Team Arrangements"
+              "title": "Community Essence Map"
+            }
+          },
+          {
+            "id": "86a61ab0c882352f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/collaborators/Teams/E-Tsinda/Team Reflection Summary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Team Reflection Summary"
+            }
+          },
+          {
+            "id": "a807490540cddadb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/⭐SAFE-SAVE_Blockchain Ibimina Platform by KryptoMina.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "⭐SAFE-SAVE_Blockchain Ibimina Platform by KryptoMina"
+            }
+          },
+          {
+            "id": "b558d60dae6293f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/collaborators/Teams/KryptoMina/Overview.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Overview"
+            }
+          },
+          {
+            "id": "8d2d7b8c40f852e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/collaborators/Teams/KryptoMina/Community Essence Map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Community Essence Map"
+            }
+          },
+          {
+            "id": "603366b339c37b17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/collaborators/Teams/KryptoMina/Team Reflection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Team Reflection"
+            }
+          },
+          {
+            "id": "32383010b84d7db6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "content/collaborators/Teams/KryptoMina/Stakeholder Map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Stakeholder Map"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -93,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1c2ef3f15fba4eb0",
@@ -157,13 +241,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Hub Info/Team Arrangements.md",
+                "file": "content/collaborators/Teams/KryptoMina/Stakeholder Map.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Team Arrangements"
+              "title": "Outline of Stakeholder Map"
             }
           }
         ],
@@ -171,7 +255,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,10 +270,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e460f4bfcf97ffaa",
+  "active": "32383010b84d7db6",
   "lastOpenFiles": [
-    "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/🧬 Data Komeza.md",
+    "content/collaborators/Teams/KryptoMina/Team Reflection.md",
+    "content/collaborators/Teams/KryptoMina/Community Essence Map.md",
+    "content/collaborators/Teams/KryptoMina/Overview.md",
+    "content/collaborators/Teams/KryptoMina/Stakeholder Map.md",
+    "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/⭐SAFE-SAVE_Blockchain Ibimina Platform by KryptoMina.md",
+    "content/collaborators/Teams/E-Tsinda/Overview.md",
+    "content/collaborators/Teams/KryptoMina",
+    "content/collaborators/Teams/E-Tsinda/Stakeholder Map.md",
+    "content/collaborators/Teams/E-Tsinda/Team Reflection Summary.md",
+    "content/collaborators/Teams/E-Tsinda/Community Essence Map.md",
+    "public/team 4.jpeg",
+    "public/team 3.jpeg",
+    "public/Team 2.jpeg",
+    "Team Visit.jpeg",
+    "Logo design.png",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "content/collaborators/Teams/E-Tsinda",
+    "content/collaborators/Teams",
+    "Untitled.base",
+    "content/processes/index.md",
+    "public/promesse.JPG",
+    "content/processes/process-infrastructuring/propagate/coordinator.md",
+    "theme.config.tsx.bak",
+    "theme.config.tsx",
+    "register-components.sh",
+    "register-components-safe.sh",
+    "public/logodesign.png",
+    "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Hub Info/HUB Information (DirectED X Umurava HUB).md",
+    "public/umurava-team.jpg",
+    "public/Umurava-logo.png",
+    "public/Logo design.png",
     "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Hub Info/Team Arrangements.md",
+    "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/🧬 Data Komeza.md",
     "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/🌍 Champs.md",
     "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/📖 FloxBlock.md",
     "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/💻 ITSINDA TEAM.md",
@@ -196,42 +313,10 @@
     "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/🩺🏥 AfroMedChain.md",
     "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/🔐 Win Team.md",
     "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/☕ CupTrace.md",
-    "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams/⭐SAFE-SAVE_Blockchain Ibimina Platform by KryptoMina.md",
     "content/events/resilience.md",
-    "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Hub Info",
     "content/events/index.md",
     "content/events/summit/Roles, Responsibilities and Domains.md",
-    "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Hub Info/HUB Information (DirectED X Umurava HUB).md",
-    "Untitled.md",
     "HUB Information.md",
-    "H",
-    "content/collaborators/communities-of-place/hub/DirectED Umurava HUB/Teams",
-    "content/collaborators/communities-of-place/hub/DirectED Umurava HUB",
-    "content/collaborators/communities-of-place/hub/HUB Information (DirectED X Umurava HUB) 1.md",
-    "content/collaborators/communities-of-place/hub/hub team.md",
-    "content/collaborators/communities-of-practice/north-star-transition/index.md",
-    "content/events/accra/bars-on-bars.md",
-    "content/Practices/Regenerative Development & Design.md",
-    "content/Practices/Role Play.md",
-    "content/events/accra/CarPool.md",
-    "OBSIDIAN_SETUP.md",
-    "scripts/record/lib/introOutro/outro.png",
-    "content/collaborators/participants/developers.md",
-    "content/events/accra/bin-to-cash.md",
-    "collaborators/communities-of-place/hub",
-    "collaborators/communities-of-place",
-    "collaborators/communities-of-practice",
-    "collaborators",
-    "content/processes/evaluation/3. Resources & Evidence/Accra ALJ Case Study",
-    "Pasted image 20250630204615.png",
-    "Pasted image 20250630204254.png",
-    "video_2025-06-30_20-19-20.mp4",
-    "evaluation day2 1.jpg",
-    "evaluation day4 1.jpg",
-    "evaluation day4.jpg",
-    "evaluation day3.jpg",
-    "evaluation day2.jpg",
-    "evaluation day1 1.jpg",
-    "evaluation day1.jpg"
+    "content/collaborators/communities-of-place/hub/HUB Information (DirectED X Umurava HUB) 1.md"
   ]
 }
