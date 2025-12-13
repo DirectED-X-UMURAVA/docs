@@ -4,7 +4,7 @@ import { getPageMap } from 'nextra/page-map';
 import 'nextra-theme-docs/style.css';
 import '@/styles.css';
 import { ReactNode } from 'react';
-import Image from 'next/image';
+// logo image removed to revert recent visual changes
 import { Analytics } from "@vercel/analytics/react";
 import { generateMetadata } from './utils/metadata';
 import { FaXTwitter } from "react-icons/fa6";
@@ -42,14 +42,10 @@ const OpenCollectiveIcon = ({ style, ...props }: IconProps) => (
   </svg>
 );
 
-const navbar = (
+  const navbar = (
   <div className="bg-white shadow-sm">
     <Navbar
-      logo={
-        <div className="bg-white p-1 rounded-md" style={{ display: 'inline-block' }}>
-            <Image src="/Umurava-logo.png" width={130} height={50} alt="Umurava Logo" />
-          </div>
-      }
+      logo={<span className="font-bold">Prisma Events</span>}
       logoLink={"https://www.prisma.events/"}
       chatIcon={<FaTelegramPlane className={`${iconClasses} ${getRandomHoverColor()}`} />}
       chatLink={"https://t.me/+9-UF8k9H8dBjNWFk"}

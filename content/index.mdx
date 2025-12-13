@@ -5,44 +5,38 @@ sidebarTitle: Home
 ---
 
 import { Cards, Steps } from 'nextra/components'
-import Image from 'next/image'
 
-<Cards num={1}>
-  <Cards.Card arrow title="Our Team" href="/about" className="font-custom card-hover animate-fade-in">
-    <div className="w-full rounded-lg overflow-hidden">
-      <Image
-        src="/umurava-team.jpg"
-        alt="Umurava Team"
-        width={1200}
-        height={600}
-        className="w-full h-auto object-cover transition-transform duration-300 hover:scale-110"
-        priority
-      />
-    </div>
-  </Cards.Card>
-</Cards>
+<h1 className="text-3xl font-bold mb-4">Welcome</h1>
 
-<div className="space-y-6">
-  <div className="animate-slide-up" style={{ animationDelay: '0s' }}>
-    <h2 className="text-2xl font-bold">Vision</h2>
-    <p>An Africa where digital talents are abundant, skilled, empowered, and fully integrated into the global job market and Digital Economy.</p>
-  </div>
+<p className="mb-6">Welcome to the site. Below are our core statements and information about the team and upcoming events.</p>
 
-  <div className="animate-slide-up" style={{ animationDelay: '0.08s' }}>
-    <h2 className="text-2xl font-bold">Mission</h2>
-    <p>To build Africa's largest workforce for the digital economy - boosting business productivity and growth while creating thousands of decent jobs for African Talents. We exist to bridge the global talent shortage and reduce unemployment in the most in-demand digital career fields.</p>
-  </div>
+<section id="vision" className="mb-8">
+## Vision
 
-  <div className="animate-slide-up" style={{ animationDelay: '0.16s' }}>
-    <h2 className="text-2xl font-bold">Purpose</h2>
-    <p>Making Hiring and Outsourcing Faster and Easier</p>
-  </div>
+An Africa where digital talents are abundant, skilled, empowered, and fully integrated into the global job market and Digital Economy.
 
-  <div className="animate-slide-up" style={{ animationDelay: '0.24s' }}>
-    <h2 className="text-2xl font-bold">Tagline</h2>
-    <p>Find Africa's Vetted Talents, On-Demand.</p>
-  </div>
-</div>
+</section>
+
+<section id="mission" className="mb-8">
+## Mission
+
+To build Africa's largest workforce for the digital economy — boosting business productivity and growth while creating thousands of decent jobs for African talents. We exist to bridge the global talent shortage and reduce unemployment in the most in-demand digital career fields.
+
+</section>
+
+<section id="purpose" className="mb-8">
+## Purpose
+
+Making hiring and outsourcing faster and easier.
+
+</section>
+
+<section id="tagline" className="mb-8">
+## Tagline
+
+Find Africa's vetted talents, on-demand.
+
+</section>
 
 ---
 
