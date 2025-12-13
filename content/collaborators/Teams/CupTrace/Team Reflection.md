@@ -1,0 +1,7 @@
+## **Team Reflection**
+
+Our team approached this challenge with the goal of understanding the problem from the perspectives of real users. Through interviews, observations, and stakeholder mapping, we identified key gaps in transparency, communication, and information flow across the value chain. This helped us refine our problem statement and align on what truly matters for users. So, visiting Farmers in Kayonza and talk with different people in community also reveal how that problem is strong.
+
+Collaboration improved as we learned to balance diverse viewpoints. Early on, we faced challenges in narrowing the problem and coordinating tasks, but structured discussions and shared feedback strengthened team cohesion. We also recognized the importance of clear communication, both within the team and with stakeholders, to avoid misunderstandings and move efficiently. Also, having mentors that give advice, help where team stuck over the floor also fuel the journey to success. Accommodating their feedback, colleagues and any other community give uncovered insights.
+
+Overall, the process taught us how to work with evidence, question assumptions, and let user insights guide our direction. As we continue, we aim to deepen our research, manage time more effectively, and involve users consistently. The experience has improved our teamwork, decision-making, and clarity of thought.
