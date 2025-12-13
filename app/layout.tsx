@@ -84,6 +84,7 @@ const navbar = (
     }
     projectLink={"https://github.com/prisma-collective/"}
     projectIcon={<FaGithub className={`${iconClasses} ${getRandomHoverColor()}`} />}
+    style={{ backgroundColor: '#ffffff', boxShadow: '0 1px 2px rgba(0, 0, 0, 0.1)' }}
   />
 );
 
