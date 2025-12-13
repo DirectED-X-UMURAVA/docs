@@ -8,14 +8,14 @@ import { Cards, Steps } from 'nextra/components'
 import Image from 'next/image'
 
 <Cards num={1}>
-  <Cards.Card arrow title="Our Team" href="/about" className="font-custom">
+  <Cards.Card arrow title="Our Team" href="/about" className="font-custom card-hover animate-fade-in">
     <div className="w-full rounded-lg overflow-hidden">
       <Image
         src="/umurava-team.jpg"
         alt="Umurava Team"
         width={1200}
         height={600}
-        className="w-full h-auto object-cover"
+        className="w-full h-auto object-cover transition-transform duration-300 hover:scale-110"
         priority
       />
     </div>
