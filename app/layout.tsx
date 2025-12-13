@@ -43,49 +43,50 @@ const OpenCollectiveIcon = ({ style, ...props }: IconProps) => (
 );
 
 const navbar = (
-  <Navbar
-    logo={
-      <div className="bg-white p-1 rounded-md" style={{ display: 'inline-block' }}>
-          <Image src="/Umurava-logo.png" width={130} height={50} alt="Umurava Logo" />
+  <div className="bg-white shadow-sm">
+    <Navbar
+      logo={
+        <div className="bg-white p-1 rounded-md" style={{ display: 'inline-block' }}>
+            <Image src="/Umurava-logo.png" width={130} height={50} alt="Umurava Logo" />
+          </div>
+      }
+      logoLink={"https://www.prisma.events/"}
+      chatIcon={<FaTelegramPlane className={`${iconClasses} ${getRandomHoverColor()}`} />}
+      chatLink={"https://t.me/+9-UF8k9H8dBjNWFk"}
+      children={
+        <div className="inline-flex items-center gap-4">
+          {/* X (Twitter) */}
+          <a
+            href="https://twitter.com/__prismaevents"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <FaXTwitter className={`${iconClasses} ${getRandomHoverColor()}`} />
+          </a>
+
+          {/* Open Collective */}
+          <a
+            href="https://opencollective.com/prisma-collective"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <OpenCollectiveIcon className={`${iconClasses} ${getRandomHoverColor()}`} />
+          </a>
+
+          {/* Calendar */}
+          <a
+            href="https://lu.ma/prisma"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <BsCalendarWeek className={`${iconClasses} ${getRandomHoverColor()}`} />
+          </a>
         </div>
-    }
-    logoLink={"https://www.prisma.events/"}
-    chatIcon={<FaTelegramPlane className={`${iconClasses} ${getRandomHoverColor()}`} />}
-    chatLink={"https://t.me/+9-UF8k9H8dBjNWFk"}
-    children={
-      <div className="inline-flex items-center gap-4">
-        {/* X (Twitter) */}
-        <a
-          href="https://twitter.com/__prismaevents"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <FaXTwitter className={`${iconClasses} ${getRandomHoverColor()}`} />
-        </a>
-
-        {/* Open Collective */}
-        <a
-          href="https://opencollective.com/prisma-collective"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <OpenCollectiveIcon className={`${iconClasses} ${getRandomHoverColor()}`} />
-        </a>
-
-        {/* Calendar */}
-        <a
-          href="https://lu.ma/prisma"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <BsCalendarWeek className={`${iconClasses} ${getRandomHoverColor()}`} />
-        </a>
-      </div>
-    }
-    projectLink={"https://github.com/prisma-collective/"}
-    projectIcon={<FaGithub className={`${iconClasses} ${getRandomHoverColor()}`} />}
-    style={{ backgroundColor: '#ffffff', boxShadow: '0 1px 2px rgba(0, 0, 0, 0.1)' }}
-  />
+      }
+      projectLink={"https://github.com/prisma-collective/"}
+      projectIcon={<FaGithub className={`${iconClasses} ${getRandomHoverColor()}`} />}
+    />
+  </div>
 );
 
 const footer = <Footer>Prisma © {new Date().getFullYear()}</Footer>
