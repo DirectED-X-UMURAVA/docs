@@ -5,10 +5,20 @@ sidebarTitle: Home
 ---
 
 import { Cards, Steps } from 'nextra/components'
+import Image from 'next/image'
 
 <Cards num={1}>
   <Cards.Card arrow title="Our Team" href="/about" className="font-custom">
-    <>![Umurava Team](/Umurava%20Team.JPG)</>
+    <div className="w-full rounded-lg overflow-hidden">
+      <Image
+        src="/Umurava Team.JPG"
+        alt="Umurava Team"
+        width={1200}
+        height={600}
+        className="w-full h-auto object-cover"
+        priority
+      />
+    </div>
   </Cards.Card>
 </Cards>
 
