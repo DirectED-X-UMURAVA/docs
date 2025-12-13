@@ -46,7 +46,7 @@ const navbar = (
   <Navbar
     logo={
       <div className="bg-white p-1 rounded-md" style={{ display: 'inline-block' }}>
-          <Image src="/Umurava-logo.png" width={130} height={50} alt="Umurava Logo" />
+          <Image src="/Logo design.png" width={130} height={50} alt="Umurava Logo" />
         </div>
     }
     logoLink={"https://www.prisma.events/"}
