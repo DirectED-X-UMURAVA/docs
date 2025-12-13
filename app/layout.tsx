@@ -47,15 +47,12 @@ const OpenCollectiveIcon = ({ style, ...props }: IconProps) => (
     <Navbar
   className="bg-white"
   logo={
-    <div className="flex items-center gap-2">
+    <div className="flex items-center">
       <img
         src="/logodesign.png"
         alt="Prisma Events Logo"
-        className="h-8 w-auto object-contain"
+        className="h-12 w-auto object-contain"
       />
-      <span className="font-bold text-lg text-black">
-        Prisma Events
-      </span>
     </div>
   }
   logoLink="https://www.prisma.events/"
@@ -94,6 +91,7 @@ const OpenCollectiveIcon = ({ style, ...props }: IconProps) => (
   projectLink="https://github.com/prisma-collective/"
   projectIcon={<FaGithub className={`${iconClasses} ${getRandomHoverColor()}`} />}
 />
+
 
   </div>
 );
