@@ -46,8 +46,8 @@ const navbar = (
   <Navbar
     logo={
       <div>
-        <Image src="/Umurava-logo.png" width={140} height={60} alt="Umurava Logo" />
-      </div>
+          <Image src="/umurava-logo-white.svg" width={160} height={64} alt="Umurava Logo" />
+        </div>
     }
     logoLink={"https://www.prisma.events/"}
     chatIcon={<FaTelegramPlane className={`${iconClasses} ${getRandomHoverColor()}`} />}
