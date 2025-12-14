@@ -1,4 +1,4 @@
-# # Grounding & Alignment
+# Grounding & Alignment
 
 ### Purpose
 
