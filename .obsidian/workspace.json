@@ -13,35 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Submission Guidelines/index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "9d1ac7b3ddb4a04b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Submission Guidelines/Stage 1 Submission Guidelines.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stage 1 Submission Guidelines"
-            }
-          },
-          {
-            "id": "3a82e9d3c280ec15",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "content/Submission Guidelines/index.md",
+                "file": "content/Workshop Learning Center/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -49,8 +21,7 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Submission Guidelines/index.md",
+                "file": "content/Workshop Learning Center/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -200,13 +171,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a82e9d3c280ec15",
+  "active": "938bf9de45059de7",
   "lastOpenFiles": [
+    "content/Workshop Learning Center/sociocratic organising.md",
+    "content/Workshop Learning Center/case-study.md",
+    "content/Workshop Learning Center/index.md",
+    "content/Workshop Learning Center/aspects.md",
+    "content/Submission Guidelines/Stage 1 Submission Guidelines.md",
+    "content/patterns/Untitled.base",
+    "content/patterns/Untitled.canvas",
+    "content/Submission Guidelines/index.md",
     "content/Processes/index.md",
     "content/Submission Guidelines/Stage 3 Submission Guidelines.md",
     "content/Submission Guidelines/Stage 2 Submission Guidelines.md",
-    "content/Submission Guidelines/Stage 1 Submission Guidelines.md",
-    "content/Submission Guidelines/index.md",
     "content/processes/evaluation/index.md",
     "content/processes/enrolment/Negotiating Scope.md",
     "content/Events/index.md",
@@ -228,10 +205,6 @@
     "content/Events/resilience.md",
     "content/Teams/KryptoMina/Overview.md",
     "content/Events/accra/CarPool.md",
-    "content/Teams/UniChain/Stakeholder Map.md",
-    "content/Teams/UniChain/Team Reflection.md",
-    "content/Teams/UniChain/Community Essence Map.md",
-    "content/Teams/UniChain/Overview.md",
     "content/Teams/UniChain",
     "content/Teams/Data KOMEZA",
     "content/Teams/Win Team",
@@ -240,7 +213,6 @@
     "content/Teams/AfroMedChain",
     "content/Teams/Champs",
     "public/Pasted image 20251213231949.png",
-    "content/Teams/ClearChain Crew",
     "public/Pasted image 20251213230638.png",
     "public/Screenshot 2025-12-13 230032.png",
     "public/team 4.jpeg",
