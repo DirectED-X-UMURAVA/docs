@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Events/Kahoots.md",
+                "file": "content/Processes1/Reflection & Continuity.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kahoots"
+              "title": "Reflection & Continuity"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Events/Kahoots.md",
+                "file": "content/Processes1/Reflection & Continuity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kahoots"
+              "title": "Outline of Reflection & Continuity"
             }
           }
         ],
@@ -171,10 +171,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bce36f6df86b5df2",
+  "active": "b558d60dae6293f0",
   "lastOpenFiles": [
-    "content/Events/resilience.md",
+    "content/Processes1/Orientation & Sense Making.md",
+    "content/Processes1/Reflection & Continuity.md",
+    "content/Processes1/Grounding & Alignment.md",
+    "content/Processes1/Enactment & Building.md",
+    "content/Processes1/Process Overview.md",
+    "content/Processes1/Replace Academy Case Study.md",
+    "content/Processes1/index.md",
     "content/Events/Kahoots.md",
+    "content/Events/resilience.md",
     "content/Events/In-Person Hackathon Day.md",
     "content/Events/Events.md",
     "content/collaborators/Teams/KryptoMina/Overview.md",
@@ -194,16 +201,9 @@
     "content/collaborators/Teams/Win Team/Stakeholder Map.md",
     "content/collaborators/Teams/Data KOMEZA",
     "content/collaborators/Teams/Win Team/Team Reflection.md",
-    "content/collaborators/Teams/Win Team/Community Essence Map.md",
-    "content/collaborators/Teams/Win Team/Overview.md",
-    "content/collaborators/Teams/AfroMedChain/Stakeholder Map.md",
     "content/collaborators/Teams/Win Team",
-    "content/collaborators/Teams/AfroMedChain/Team Reflection.md",
-    "content/collaborators/Teams/AfroMedChain/Community Essence Map.md",
     "Pasted image 20251214074537.png",
     "Pasted image 20251214074518.png",
-    "content/collaborators/Teams/AfroMedChain/Overview.md",
-    "content/collaborators/Teams/KryptoMina/Community Essence Map.md",
     "content/collaborators/Teams/AfroMedChain",
     "content/collaborators/Teams/Champs",
     "public/Pasted image 20251213231949.png",
