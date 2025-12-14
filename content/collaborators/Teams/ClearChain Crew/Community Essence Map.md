@@ -1,3 +1,4 @@
+# **Community Essence Map**
 
 *Community Essence: Kigali City (Realities of Renting for both tenants and landloads)*
 
