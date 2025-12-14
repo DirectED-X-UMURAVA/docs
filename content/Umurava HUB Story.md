@@ -1,4 +1,4 @@
-## **Umurava Hub Story**
+## **Umurava HUB Story**
 
 **CATS26 Action-Learning Journey**
 
