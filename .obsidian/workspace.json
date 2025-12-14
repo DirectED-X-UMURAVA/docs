@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Workshop Learning Center/index.md",
+                "file": "content/Teams/AfroMedChain/Our Story.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Our Story"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Workshop Learning Center/index.md",
+                "file": "content/Teams/AfroMedChain/Our Story.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Our Story"
             }
           }
         ],
@@ -173,9 +173,14 @@
   },
   "active": "938bf9de45059de7",
   "lastOpenFiles": [
+    "content/Teams/AfroMedChain/Stakeholder Map.md",
+    "content/Teams/AfroMedChain/Our Story.md",
+    "content/Teams/AfroMedChain/Team Reflection.md",
+    "content/Teams/AfroMedChain/Community Essence Map.md",
+    "content/Teams/AfroMedChain/Overview.md",
+    "content/Workshop Learning Center/index.md",
     "content/Workshop Learning Center/sociocratic organising.md",
     "content/Workshop Learning Center/case-study.md",
-    "content/Workshop Learning Center/index.md",
     "content/Workshop Learning Center/aspects.md",
     "content/Submission Guidelines/Stage 1 Submission Guidelines.md",
     "content/patterns/Untitled.base",
@@ -199,12 +204,7 @@
     "().md",
     "content/Events/In-Person Hackathon Day.md",
     "Untitled 3.base",
-    "context-narrative/Bioregional Celebration Festival.md",
     "context-narrative",
-    "content/Processes1/Replace Academy Case Study.md",
-    "content/Events/resilience.md",
-    "content/Teams/KryptoMina/Overview.md",
-    "content/Events/accra/CarPool.md",
     "content/Teams/UniChain",
     "content/Teams/Data KOMEZA",
     "content/Teams/Win Team",
