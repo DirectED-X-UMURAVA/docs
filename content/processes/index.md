@@ -1,29 +1,65 @@
 ---
-sidebarTitle: Processes
+sidebarTitle: Processess1
 asIndexPage: true
 ---
+# Regenerative Process Overview
 
-![organising.png](/deck_organising.png)
+DirectED Umurava Hub operates through a set of interconnected regenerative processes that guide teams from early sensemaking to delivery and continuity.
 
-# Core Processes
-at the highest level, each event is the interplay of the following four processes. these processes each receive a sub-domain dedicated to engaging a wider audience with the inner workings of the event. these sub-domains become the endpoints by which [hubs](/collaborators/communities-of-place/hub/hubs.md) can integrate their [place](/glossary/Place.md)-unique interfaces into working with the essence of place in a global-scale, self-evolving platform.
+The framework is designed to be:
 
-1. [enrolment](/processes/enrolment) 
-	- stakeholder engagement
-	- participant, practice and systems onboarding
-2. [ground-potentialising](/processes/ground-potentialising.md) 
-	- fostering relational depth
-	- accumulating intention
-	- imaging place-sourced potential (hubs platforming local network activity)
-3. [enacting](/processes/enactment) 
-	- [practice](/glossary/Practice.md) embodiment
-	- learning by doing
-	- organisation forming
-4. [evaluating](/processes/evaluation)
-	- shifting systems [flows](https://metacurrency.org/faq/#qaef-1035)
-	- making visible the effects of systems interventions 
-	- reflecting on the approach, harvesting learnings, integrating into practice evolution
+- **Evaluator‑legible**: progress, intent, and execution are clear and verifiable
+- **Participant‑actionable**: teams always know what phase they are in and what is expected next
+- **Operationally grounded**: cadence, reviews, and documentation are embedded into the flow
 
-we will aim to automate the registering and configuring of sub-domains, minimum viable service/ api deployments and testing, and porting back into a global visibility mapping interface. these endpoints are the means for communicating activity on-the-ground and the stem for each event-specific code repository.
+While aligned with the CATS regenerative methodology, the processes are expressed through DirectED’s own execution model and language.
 
-head to [process-infrastructure](/processes/process-infrastructuring/) for the technical equivalent.
+---
+
+## The Process Flow
+
+The journey unfolds through four mutually reinforcing processes:
+
+1. **Orientation & Sensemaking** Establishes shared understanding of the problem space, context, and evaluation criteria.
+    
+2. **Grounding & Alignment** Translates understanding into coherent direction, internal alignment, and feasible scope.
+    
+3. **Enactment & Building** Moves teams from intention to action through iterative building and visible progress.
+    
+4. **Reflection & Continuity** Consolidates learning, documents outcomes, and prepares work for continuation beyond the program.
+    
+
+These processes are not treated as rigid stages, but as a regenerative loop—each informing and strengthening the next.
+
+---
+
+## How the Processes Are Run
+
+Across all processes, DirectED maintains a consistent operational rhythm:
+
+- **Weekly team check‑ins** to validate progress and surface blockers
+- **Workshops twice a week (Tuesdays & Thursdays)** to deepen understanding and technical alignment
+- **Open Q&A sessions (Mondays)** to resolve uncertainty early
+- **Kahoot sessions (Fridays)** to reinforce learning, engagement, and shared momentum
+
+This cadence ensures that learning, building, and reflection happen continuously, not only at milestones.
+
+---
+
+## Evidence & Accountability
+
+Evidence is produced naturally as part of the process rather than as a separate reporting layer.
+
+Across the framework, this includes:
+
+- Recorded workshops and Q&A sessions
+- Live or recorded demos during reviews
+- Published documentation and repositories
+
+Artifacts are surfaced contextually within supporting pages and linked where relevant.
+
+---
+
+## Closing Note
+
+This process framework reflects DirectED’s approach to regenerative practice: **clarity before speed, execution over intention, and continuity beyond delivery**. It is intentionally adaptable across hubs and cohorts while remaining methodologically rigorous.
