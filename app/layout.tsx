@@ -11,6 +11,10 @@ import { FaTelegramPlane, FaGithub } from 'react-icons/fa'
 import { BsCalendarWeek } from 'react-icons/bs'
 import { ActiveJourneyProvider } from '@/contexts/ActiveJourneyContext'
 
+/* ============================
+   ICON STYLING
+============================ */
+
 const iconClasses =
   'w-5 h-5 text-gray-600 dark:text-gray-400 transition-all duration-300 hover:scale-110'
 
@@ -21,11 +25,15 @@ const hoverColorClasses = [
   'hover:text-prisma-d',
 ]
 
-// ⚠️ Note: still random, but hydration warning is already suppressed at <html>
+// Random hover color (hydration warning already suppressed at <html>)
 const getRandomHoverColor = () =>
   hoverColorClasses[Math.floor(Math.random() * hoverColorClasses.length)]
 
 type IconProps = React.SVGProps<SVGSVGElement>
+
+/* ============================
+   CUSTOM ICON
+============================ */
 
 const OpenCollectiveIcon = ({ style, ...props }: IconProps) => (
   <svg
@@ -46,13 +54,13 @@ const OpenCollectiveIcon = ({ style, ...props }: IconProps) => (
 )
 
 /* ============================
-   STICKY NAVBAR (IMPROVED)
+   STICKY WHITE NAVBAR
 ============================ */
 
 const navbar = (
-  <div className="sticky top-0 z-50 backdrop-blur bg-white/90 dark:bg-neutral-900/90 shadow-sm">
+  <div className="sticky top-0 z-50 bg-white dark:bg-neutral-900 shadow-sm">
     <Navbar
-      className="bg-transparent"
+      className="bg-white dark:bg-neutral-900"
       logo={
         <div className="flex items-center">
           <img
@@ -86,6 +94,10 @@ const navbar = (
     </Navbar>
   </div>
 )
+
+/* ============================
+   FOOTER
+============================ */
 
 const footer = (
   <Footer>Prisma © {new Date().getFullYear()}</Footer>
