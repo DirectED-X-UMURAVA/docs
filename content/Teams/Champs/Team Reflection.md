@@ -1,3 +1,5 @@
+## **Team Reflection**
+
 **The Shift:** "Initially, we entered this project thinking our job was to build a 'better wallet' to compete with banks on transaction speeds. However, after listening to online vendors and students, our perspective shifted. We realized that speed is not the biggest pain point, safety is. People are willing to wait 10 minutes for a transaction if they know their money is 100% safe from fraud. 
 
 **What Surprised Us:** We were moved by how many young people hold digital assets (like Pi or USDT) but feel 'poor' because they cannot spend them in the real economy. The community isn't asking for another bank app; they are asking for a bridge that connects their digital effort to realworld value without the fear of being cheated. Our focus has moved from 'payments' to 'commerce enablement' via trusted flow.

@@ -66,5 +66,3 @@ CupTrace represents people across the coffee value chain who believe in honest w
 - Confident buyers and consumers supported by verified proof
     
 - A future where technology restores trust, equity, and dignity in coffee
-
-![[Screenshot 2025-12-13 230032.png]]

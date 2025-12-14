@@ -1,3 +1,5 @@
+## **Team Reflection**
+
 At the beginning of our exploration, we assumed that renting issues were mostly about money and
 communication. However, after engaging with 28 people across Kigali city, our perspective
 changed significantly. We discovered that the core problem is deeper, a broken trust system where
