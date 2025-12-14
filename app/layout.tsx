@@ -58,9 +58,9 @@ const OpenCollectiveIcon = ({ style, ...props }: IconProps) => (
 ============================ */
 
 const navbar = (
-  <div className="sticky top-0 z-50 bg-white dark:bg-neutral-900 shadow-sm">
+  <div className="sticky top-0 z-50 bg-white shadow-sm">
     <Navbar
-      className="bg-white dark:bg-neutral-900"
+      className="bg-white"
       logo={
         <div className="flex items-center">
           <img
