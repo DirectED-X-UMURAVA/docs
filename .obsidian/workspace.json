@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Processes1/Reflection & Continuity.md",
+                "file": "content/Events/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reflection & Continuity"
+              "title": "index"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Processes1/Reflection & Continuity.md",
+                "file": "content/Events/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Reflection & Continuity"
+              "title": "Outline of index"
             }
           }
         ],
@@ -171,13 +171,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "938bf9de45059de7",
+  "active": "bce36f6df86b5df2",
   "lastOpenFiles": [
+    "content/Processes1/Reflection & Continuity.md",
+    "hub/Stakeholders and Growth Strategy.mdx",
+    "hub/Core Value-Systems.mdx",
     "content/Processes1/Orientation & Sense Making.md",
     "content/Processes1/Enactment & Building.md",
     "content/Processes1/Grounding & Alignment.md",
     "content/Processes1/index.md",
-    "content/Processes1/Reflection & Continuity.md",
     "content/Processes1/Process Overview.md",
     "content/Events/index.md",
     "content/Events/Events.md",
@@ -189,30 +191,28 @@
     "context-narrative",
     "content/Processes1/Replace Academy Case Study.md",
     "content/Events/resilience.md",
-    "content/collaborators/Teams/KryptoMina/Overview.md",
+    "content/Teams/KryptoMina/Overview.md",
     "content/Events/accra/CarPool.md",
-    "content/collaborators/Teams/UniChain/Stakeholder Map.md",
-    "content/collaborators/Teams/UniChain/Team Reflection.md",
-    "content/collaborators/Teams/UniChain/Community Essence Map.md",
-    "content/collaborators/Teams/UniChain/Overview.md",
-    "content/collaborators/Teams/Data KOMEZA/Stakeholder Map.md",
-    "content/collaborators/Teams/UniChain",
-    "content/collaborators/Teams/Data KOMEZA/Team Reflection.md",
-    "content/collaborators/Teams/Data KOMEZA/Community Essence Map.md",
-    "content/collaborators/Teams/Data KOMEZA/Overview.md",
+    "content/Teams/UniChain/Stakeholder Map.md",
+    "content/Teams/UniChain/Team Reflection.md",
+    "content/Teams/UniChain/Community Essence Map.md",
+    "content/Teams/UniChain/Overview.md",
+    "content/Teams/Data KOMEZA/Stakeholder Map.md",
+    "content/Teams/UniChain",
+    "content/Teams/Data KOMEZA/Team Reflection.md",
+    "content/Teams/Data KOMEZA/Community Essence Map.md",
+    "content/Teams/Data KOMEZA/Overview.md",
     "Untitled 3.md",
-    "content/collaborators/Teams/Data KOMEZA",
-    "content/collaborators/Teams/Win Team",
+    "content/Teams/Data KOMEZA",
+    "content/Teams/Win Team",
     "Pasted image 20251214074537.png",
     "Pasted image 20251214074518.png",
-    "content/collaborators/Teams/AfroMedChain",
-    "content/collaborators/Teams/Champs",
+    "content/Teams/AfroMedChain",
+    "content/Teams/Champs",
     "public/Pasted image 20251213231949.png",
-    "content/collaborators/Teams/ClearChain Crew",
+    "content/Teams/ClearChain Crew",
     "public/Pasted image 20251213230638.png",
     "public/Screenshot 2025-12-13 230032.png",
-    "Untitled 1",
-    "Untitled 2.base",
     "public/team 4.jpeg",
     "public/team 3.jpeg",
     "public/Team 2.jpeg",
