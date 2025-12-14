@@ -2,7 +2,7 @@
 asIndexPage: true
 sidebarTitle: Events
 ---
-## [Events](https://docs-virid-delta.vercel.app/events/Events)
+## Events
 
 The Events section serves as the central hub for all Umurava HUB activities. It organizes program engagements into clear categories to help participants easily access schedules, joining instructions, resources, and recordings. These events are designed to support learning, collaboration, and engagement throughout the hackathon journey. The main categories include workshops for structured learning, weekly Kahoots for reinforcement and engagement, and the In-Person Hackathon Day as the core on-ground milestone.
 
