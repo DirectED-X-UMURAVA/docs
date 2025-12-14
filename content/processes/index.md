@@ -1,5 +1,5 @@
 ---
-sidebarTitle: Processess1
+sidebarTitle: Processes
 asIndexPage: true
 ---
 # Regenerative Process Overview

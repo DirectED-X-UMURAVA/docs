@@ -1,5 +1,5 @@
 ---
-sidebarTitle: Processes
+sidebarTitle: Submission Guidelines
 asIndexPage: true
 ---
 # 🧭 Submission Journey Overview

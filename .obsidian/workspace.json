@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Submission Guidelines/Stage 3 Submission Guidelines.md",
+                "file": "content/Submission Guidelines/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stage 3 Submission Guidelines"
+              "title": "index"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/Submission Guidelines/Stage 3 Submission Guidelines.md",
+                "file": "content/Submission Guidelines/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Stage 3 Submission Guidelines"
+              "title": "Outline of index"
             }
           }
         ],
@@ -200,10 +200,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bce36f6df86b5df2",
+  "active": "3a82e9d3c280ec15",
   "lastOpenFiles": [
-    "content/Submission Guidelines/Stage 2 Submission Guidelines.md",
+    "content/Processes/index.md",
     "content/Submission Guidelines/Stage 3 Submission Guidelines.md",
+    "content/Submission Guidelines/Stage 2 Submission Guidelines.md",
     "content/Submission Guidelines/Stage 1 Submission Guidelines.md",
     "content/Submission Guidelines/index.md",
     "content/processes/evaluation/index.md",
@@ -215,7 +216,6 @@
     "content/Processes/Orientation & Sense Making.md",
     "content/Processes/Enactment & Building.md",
     "content/Processes/Grounding & Alignment.md",
-    "content/Processes/index.md",
     "content/Processes1/Process Overview.md",
     "content/Events/Events.md",
     "content/Events/Kahoots.md",
