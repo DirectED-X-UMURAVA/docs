@@ -1,28 +1,31 @@
 import { Footer, Layout, Navbar } from 'nextra-theme-docs'
-import { Head } from 'nextra/components';
-import { getPageMap } from 'nextra/page-map';
-import 'nextra-theme-docs/style.css';
-import '@/styles.css';
-import { ReactNode } from 'react';
-// logo image removed to revert recent visual changes
-import { Analytics } from "@vercel/analytics/react";
-import { generateMetadata } from './utils/metadata';
-import { FaXTwitter } from "react-icons/fa6";
-import { FaTelegramPlane, FaGithub } from "react-icons/fa";
-import { BsCalendarWeek } from "react-icons/bs";
+import { Head } from 'nextra/components'
+import { getPageMap } from 'nextra/page-map'
+import 'nextra-theme-docs/style.css'
+import '@/styles.css'
+import { ReactNode } from 'react'
+import { Analytics } from '@vercel/analytics/react'
+import { generateMetadata } from './utils/metadata'
+import { FaXTwitter } from 'react-icons/fa6'
+import { FaTelegramPlane, FaGithub } from 'react-icons/fa'
+import { BsCalendarWeek } from 'react-icons/bs'
 import { ActiveJourneyProvider } from '@/contexts/ActiveJourneyContext'
 
-const iconClasses = "w-5 h-5 text-gray-600 dark:text-gray-400 transition-all duration-300 hover:scale-110"
+const iconClasses =
+  'w-5 h-5 text-gray-600 dark:text-gray-400 transition-all duration-300 hover:scale-110'
+
 const hoverColorClasses = [
   'hover:text-prisma-a',
   'hover:text-prisma-b',
   'hover:text-prisma-c',
   'hover:text-prisma-d',
-];
+]
 
-type IconProps = React.SVGProps<SVGSVGElement>;
+// ⚠️ Note: still random, but hydration warning is already suppressed at <html>
+const getRandomHoverColor = () =>
+  hoverColorClasses[Math.floor(Math.random() * hoverColorClasses.length)]
 
-const getRandomHoverColor = () => hoverColorClasses[Math.floor(Math.random() * hoverColorClasses.length)];
+type IconProps = React.SVGProps<SVGSVGElement>
 
 const OpenCollectiveIcon = ({ style, ...props }: IconProps) => (
   <svg
@@ -40,69 +43,101 @@ const OpenCollectiveIcon = ({ style, ...props }: IconProps) => (
     />
     <path d="M8 13.151a4.995 4.995 0 1 1 0-9.99c1.015 0 1.951.273 2.732.82l1.95-2.03a7.805 7.805 0 1 0 .04 12.449l-1.951-2.03a5.07 5.07 0 0 1-2.732.781z" />
   </svg>
-);
+)
 
-  const navbar = (
-  <div className="bg-white shadow-sm">
+/* ============================
+   STICKY NAVBAR (IMPROVED)
+============================ */
+
+const navbar = (
+  <div className="sticky top-0 z-50 backdrop-blur bg-white/90 dark:bg-neutral-900/90 shadow-sm">
     <Navbar
-  className="bg-white"
-  logo={
-    <div className="flex items-center">
-      <img
-        src="/logodesign.png"
-        alt="Prisma Events Logo"
-        className="h-20 w-auto object-contain"
-      />
-    </div>
-  }
-  logoLink="https://umurava.africa/"
-  chatIcon={<FaTelegramPlane className={`${iconClasses} ${getRandomHoverColor()}`} />}
-  chatLink="https://t.me/+9-UF8k9H8dBjNWFk"
-  children={
-    <div className="inline-flex items-center gap-4">
-      <FaXTwitter className={`${iconClasses} ${getRandomHoverColor()}`} />
-      <OpenCollectiveIcon className={`${iconClasses} ${getRandomHoverColor()}`} />
-      <BsCalendarWeek className={`${iconClasses} ${getRandomHoverColor()}`} />
-    </div>
-  }
-  projectLink="https://github.com/prisma-collective/"
-  projectIcon={<FaGithub className={`${iconClasses} ${getRandomHoverColor()}`} />}
-/>
-
-
+      className="bg-transparent"
+      logo={
+        <div className="flex items-center">
+          <img
+            src="/logodesign.png"
+            alt="Prisma Events Logo"
+            className="h-20 w-auto object-contain"
+          />
+        </div>
+      }
+      logoLink="https://umurava.africa/"
+      chatIcon={
+        <FaTelegramPlane
+          className={`${iconClasses} ${getRandomHoverColor()}`}
+        />
+      }
+      chatLink="https://t.me/+9-UF8k9H8dBjNWFk"
+      projectLink="https://github.com/prisma-collective/"
+      projectIcon={
+        <FaGithub className={`${iconClasses} ${getRandomHoverColor()}`} />
+      }
+    >
+      <div className="inline-flex items-center gap-4">
+        <FaXTwitter className={`${iconClasses} ${getRandomHoverColor()}`} />
+        <OpenCollectiveIcon
+          className={`${iconClasses} ${getRandomHoverColor()}`}
+        />
+        <BsCalendarWeek
+          className={`${iconClasses} ${getRandomHoverColor()}`}
+        />
+      </div>
+    </Navbar>
   </div>
-);
+)
 
-const footer = <Footer>Prisma © {new Date().getFullYear()}</Footer>
+const footer = (
+  <Footer>Prisma © {new Date().getFullYear()}</Footer>
+)
+
+/* ============================
+   ROOT LAYOUT
+============================ */
 
 export default async function RootLayout({
   children,
   params,
 }: {
-  children: ReactNode;
-  params: Promise<{ mdxPath?: string[] }>;
+  children: ReactNode
+  params: Promise<{ mdxPath?: string[] }>
 }) {
-  const resolvedParams = await params;
-  const metadata = await generateMetadata({ params: resolvedParams }); // Generate dynamic metadata
+  const resolvedParams = await params
+  const metadata = await generateMetadata({ params: resolvedParams })
 
   return (
     <html lang="en" dir="ltr" suppressHydrationWarning>
       <Head>
         <title>{metadata.title}</title>
         <meta name="description" content={metadata.description} />
-        {/* OpenGraph Meta Tags */}
+
+        {/* OpenGraph */}
         <meta property="og:title" content={metadata.openGraph.title} />
-        <meta property="og:description" content={metadata.openGraph.description} />
+        <meta
+          property="og:description"
+          content={metadata.openGraph.description}
+        />
         <meta property="og:url" content={metadata.openGraph.url} />
         <meta property="og:site_name" content={metadata.openGraph.siteName} />
         <meta property="og:type" content={metadata.openGraph.type} />
-        <meta property="og:image" content={metadata.openGraph.images[0].url} />
-        {/* Twitter Meta Tags */}
+        <meta
+          property="og:image"
+          content={metadata.openGraph.images[0].url}
+        />
+
+        {/* Twitter */}
         <meta name="twitter:card" content={metadata.twitter.card} />
         <meta name="twitter:title" content={metadata.twitter.title} />
-        <meta name="twitter:description" content={metadata.twitter.description} />
-        <meta name="twitter:image" content={metadata.twitter.images[0]} />
+        <meta
+          name="twitter:description"
+          content={metadata.twitter.description}
+        />
+        <meta
+          name="twitter:image"
+          content={metadata.twitter.images[0]}
+        />
       </Head>
+
       <body>
         <Layout
           navbar={navbar}
@@ -111,14 +146,12 @@ export default async function RootLayout({
           footer={footer}
           sidebar={{ autoCollapse: true, defaultMenuCollapseLevel: 1 }}
           editLink={null}
-          nextThemes={{ defaultTheme: "dark" }}
+          nextThemes={{ defaultTheme: 'dark' }}
         >
-          <ActiveJourneyProvider>
-            {children}
-          </ActiveJourneyProvider>
+          <ActiveJourneyProvider>{children}</ActiveJourneyProvider>
           <Analytics />
         </Layout>
       </body>
     </html>
-  );
+  )
 }
