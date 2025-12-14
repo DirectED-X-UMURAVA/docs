@@ -55,7 +55,7 @@ const OpenCollectiveIcon = ({ style, ...props }: IconProps) => (
       />
     </div>
   }
-  logoLink="https://www.prisma.events/"
+  logoLink="https://umurava.africa/"
   chatIcon={<FaTelegramPlane className={`${iconClasses} ${getRandomHoverColor()}`} />}
   chatLink="https://t.me/+9-UF8k9H8dBjNWFk"
   children={
