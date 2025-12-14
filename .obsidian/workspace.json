@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "54690f50f492a92f",
+        "id": "0dff49864f5ac7cf",
         "type": "tabs",
         "children": [
           {
-            "id": "938bf9de45059de7",
+            "id": "3501f26833a78dea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -171,12 +171,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "938bf9de45059de7",
+  "active": "3501f26833a78dea",
   "lastOpenFiles": [
-    "content/Teams/AfroMedChain/Stakeholder Map.md",
+    "().md",
     "content/Teams/AfroMedChain/Our Story.md",
-    "content/Teams/AfroMedChain/Team Reflection.md",
     "content/Teams/AfroMedChain/Community Essence Map.md",
+    "jjj.c.md",
+    "content/Teams/AfroMedChain/Stakeholder Map.md",
+    "content/Teams/AfroMedChain/Team Reflection.md",
     "content/Teams/AfroMedChain/Overview.md",
     "content/Workshop Learning Center/index.md",
     "content/Workshop Learning Center/sociocratic organising.md",
@@ -201,8 +203,6 @@
     "content/Processes1/Process Overview.md",
     "content/Events/Events.md",
     "content/Events/Kahoots.md",
-    "().md",
-    "content/Events/In-Person Hackathon Day.md",
     "Untitled 3.base",
     "context-narrative",
     "content/Teams/UniChain",
