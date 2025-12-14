@@ -6,7 +6,7 @@ sidebarTitle: Workshop Learning Center
 
 ## 🧭 Overview[](https://docs-opal-pi-79.vercel.app/workshops#-overview)
 
-Workshops are the core learning sessions for the Addis Ababa Hub. They are designed to help teams improve problem framing, documentation quality, and technical execution as they move from exploration to working prototypes.
+Workshops are the core learning sessions for the . They are designed to help teams improve problem framing, documentation quality, and technical execution as they move from exploration to working prototypes.
 
 Each workshop builds on the previous one, and all materials are tied directly to the session recordings for easy reference.
 
