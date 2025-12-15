@@ -196,5 +196,21 @@ The projects were practical, grounded, and connected to real community needs.
     
 - Resilience and focus help overcome challenges.
     
-- Good documentation and sharing of knowledge make work more efficient.
+- Good documentation and sharing of knowledge make work more efficient. 
     
+### 👉 Umurava HUB Team Stories[](https://docs-cyan-kappa.vercel.app/Abuja-Hub-story#-abuja-team-stories)
+
+| No  | Team            | Project                                                                                                                                                                        | Team Story Link                                                                            |
+| --- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
+| 1   | Afromed Chain   | A blockchain-powered healthcare data platform                                                                                                                                  | [View Team Story](https://docs-virid-delta.vercel.app/Teams/AfroMedChain/Our%20Story)      |
+| 2   | Champs          | A Platform leveraging blockchain technology and stablecoins to deliver a **fast, low-cost, and inclusive remittance platform**.                                                | [View Team Story](https://docs-virid-delta.vercel.app/Teams/Champs/Our%20Story)            |
+| 3   | ClearChain Crew | A blockchain-powered solution designed to bring fairness, transparency, and trust to rental agreements worldwide.                                                              | [View Team Story](https://docs-virid-delta.vercel.app/Teams/ClearChain%20Crew/Our%20Story) |
+| 4   | CupTrace        | A digital, farmer-centered traceability and governance platform designed to transform Rwanda’s coffee and tea value chains.                                                    | [View Team Story](https://docs-virid-delta.vercel.app/Teams/CupTrace/Our%20Story)          |
+| 5   | DATA KOMEZA     | A platform providing **quantum-resistant, blockchain-based medical data verification platform** that ensures long-term security, transparency, and interoperability.           | [View Team Story](https://docs-virid-delta.vercel.app/Teams/Data%20KOMEZA/Our%20Story)     |
+| 6   | E-Tsinda        | A digital management platform designed to modernize and secure Rwanda’s traditional community savings groups, commonly known as Itsinda or Ibimina.                            | [View Team Story](https://docs-virid-delta.vercel.app/Teams/E-Tsinda/Our%20Story)          |
+| 7   | KryptoMina      | A blockchain-powered **ibimina (traditional savings group) platform** designed to modernize and secure community savings systems using the **Cardano blockchain**.             | [View Team Story](https://docs-virid-delta.vercel.app/Teams/KryptoMina/Our%20Story)        |
+| 8   | UniChain        | A blockchain-based Identity, Credential & Finance Verification System                                                                                                          | [View Team Story](https://docs-virid-delta.vercel.app/Teams/UniChain/Our%20Story)          |
+| 9   | Win Team        | A modernized **Rwanda Crime Report System** powered by **Cardano blockchain technology**, built to make crime reporting in Rwanda safer, more transparent, and more efficient. | [View Team Story](https://docs-virid-delta.vercel.app/Teams/Win%20Team/Our%20Story)        |
+| 10  | FloxBlock       | A blockchain-powered solution that introduces a **secure, transparent, and accessible ledger** for community savings groups.                                                   | [View Team Story]()                                                                        |
+
+
