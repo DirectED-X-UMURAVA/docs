@@ -2,7 +2,7 @@
   {
     "name": "Promesse IREME",
     "role": "HUB Lead",
-    "photo": "/promesse.jpg",
+    "photo": "/ireme.png",
     "profile_card_link": "/processes/evaluation",
     "links": [
       { "label": "Meet", "url": "https://cal.com/promesse", "icon": "FaPhone" },
