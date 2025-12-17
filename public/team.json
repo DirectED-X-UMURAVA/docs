@@ -1,55 +1,47 @@
 [
-    {
-      "name": "Promesse IREME",
-      "role": "HUB Lead",
-      "photo": "/promesse.jpg",
-      "profile_card_link": "/processes/evaluation",
-      "links": [
-        { "label": "Meet", "url": "https://cal.com/promesse", "icon": "FaPhone" },
-        { "label": "LinkedIn", "url": "https://www.linkedin.com/in/second-promesse-ireme-gasari/", "icon": "FaLinkedinIn" },
-        
-      ]
-    },
-    {
-      "name": "Vivens Uwizeyimana",
-      "role": "Hub Founder",
-      "photo": "/Vivens.png",
-      "profile_card_link": "/processes/enactment",
-      "links": [
-
-        { "label": "LinkedIn", "url": "https://www.linkedin.com/in/vivens-uwizeyimana-a94a9514b/", "icon": "FaLinkedinIn" },
-        { "label": "Website", "url": "https://iniciativamurmullo.com/", "icon": "FaGlobe" }
-      ]
-    },
-    {
-      "name": "Celine Fleurie Irankunda",
-      "role": "Hub Communications",
-      "photo": "/celine.png",
-      "profile_card_link": "/processes/ground-potentialising",
-      "links": [
-        { "label": "LinkedIn", "url": "https://www.linkedin.com/in/celine-fleurie-irankunda-983b621bb/", "icon": "FaLinkedinIn" }
-        
-      ]
-    },
-    {
-      "name": "Blandine Uwase",
-      "role": "Hub Coordinator",
-      "photo": "/Blandine.png",
-      "profile_card_link": "/processes/process-infrastructuring",
-      "links": [
-
-        { "label": "LinkedIn", "url": "https://www.linkedin.com/in/blandine-uwase-a892141a2/", "icon": "FaLinkedinIn" },
-        
-      ]
-    },
-    {
-      "name": "Gad Mucyo",
-      "role": "Hub Communications Associate",
-      "photo": "/Gad.png",
-      "profile_card_link": "/context-narrative",
-      "links": [
-      ]
-    }
-
-  ]
-  
+  {
+    "name": "Promesse IREME",
+    "role": "HUB Lead",
+    "photo": "/promesse.jpg",
+    "profile_card_link": "/processes/evaluation",
+    "links": [
+      { "label": "Meet", "url": "https://cal.com/promesse", "icon": "FaPhone" },
+      { "label": "LinkedIn", "url": "https://www.linkedin.com/in/second-promesse-ireme-gasari/", "icon": "FaLinkedinIn" }
+    ]
+  },
+  {
+    "name": "Vivens Uwizeyimana",
+    "role": "Hub Founder",
+    "photo": "/Vivens.png",
+    "profile_card_link": "/processes/enactment",
+    "links": [
+      { "label": "LinkedIn", "url": "https://www.linkedin.com/in/vivens-uwizeyimana-a94a9514b/", "icon": "FaLinkedinIn" },
+      { "label": "Website", "url": "https://iniciativamurmullo.com/", "icon": "FaGlobe" }
+    ]
+  },
+  {
+    "name": "Celine Fleurie Irankunda",
+    "role": "Hub Communications",
+    "photo": "/celine.png",
+    "profile_card_link": "/processes/ground-potentialising",
+    "links": [
+      { "label": "LinkedIn", "url": "https://www.linkedin.com/in/celine-fleurie-irankunda-983b621bb/", "icon": "FaLinkedinIn" }
+    ]
+  },
+  {
+    "name": "Blandine Uwase",
+    "role": "Hub Coordinator",
+    "photo": "/Blandine.png",
+    "profile_card_link": "/processes/process-infrastructuring",
+    "links": [
+      { "label": "LinkedIn", "url": "https://www.linkedin.com/in/blandine-uwase-a892141a2/", "icon": "FaLinkedinIn" }
+    ]
+  },
+  {
+    "name": "Gad Mucyo",
+    "role": "Hub Communications Associate",
+    "photo": "/Gad.png",
+    "profile_card_link": "/context-narrative",
+    "links": []
+  }
+]
