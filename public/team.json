@@ -15,8 +15,7 @@
     "photo": "/Vivens.png",
     "profile_card_link": "/processes/enactment",
     "links": [
-      { "label": "LinkedIn", "url": "https://www.linkedin.com/in/vivens-uwizeyimana-a94a9514b/", "icon": "FaLinkedinIn" },
-      { "label": "Website", "url": "https://iniciativamurmullo.com/", "icon": "FaGlobe" }
+      { "label": "LinkedIn", "url": "https://www.linkedin.com/in/vivens-uwizeyimana-a94a9514b/", "icon": "FaLinkedinIn" }
     ]
   },
   {
