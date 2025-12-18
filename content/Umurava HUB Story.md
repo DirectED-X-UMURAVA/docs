@@ -24,9 +24,11 @@ From the start, three things were clear:
 
 Participants were also told that attendance, participation, and follow-through were essential.
 
-**Evidence:**  
-→ Orientation Call Recording  
-→ Onboarding Slides & Notes
+**Evidence:**
+
+→ <a href="https://us06web.zoom.us/rec/share/Njm5plrbo0dkygqCyYPiFKTCJ7eZHx5MhBx8Vq_CQtkHMhMk4z3rzwagPYLVUvXj.6bZJUjpavOCHoukj">Orientation Call Recording</a>  - Passcode: w0x@%Nxm
+
+→ Onboarding Slides & Notes 
 
 ---
 
