@@ -28,7 +28,7 @@ Participants were also told that attendance, participation, and follow-through w
 
 → <a href="https://us06web.zoom.us/rec/share/Njm5plrbo0dkygqCyYPiFKTCJ7eZHx5MhBx8Vq_CQtkHMhMk4z3rzwagPYLVUvXj.6bZJUjpavOCHoukj">Orientation Call Recording</a>  - Passcode: w0x@%Nxm
 
-→ Onboarding Slides & Notes 
+→ <a href="https://gamma.app/docs/DirectEd-x-CATS-Hackathon-2026-nv6nko5h9ocfwsa">Onboarding Slides & Notes</a>
 
 ---
 
@@ -48,9 +48,8 @@ Before designing any solutions, teams focused on understanding:
 This helped teams make solutions that were based on real needs, not assumptions.
 
 **Evidence:**  
-→ Stage 1 Submission Guidelines  
-→ Stage 1 Submissions Sheet  
-→ Sample Community Insight Maps
+→ <a href="https://docs-virid-delta.vercel.app/Submission%20Guidelines/Stage%201%20Submission%20Guidelines" target="_self">State 1 Submission Guidelines</a>  
+→ <a href="https://docs-virid-delta.vercel.app/Teams/E-Tsinda/Community%20Essence%20Map" target="_self">Sample Community Insight Maps</a>
 
 ---
 
@@ -61,8 +60,8 @@ The hub ran workshops twice a week and had weekly Q&A sessions. Sessions covered
 Attendance was carefully tracked, and all sessions were recorded. Resources were shared in a central space so anyone who missed a session could catch up. Participants who were new to certain topics received extra guidance to keep up.
 
 **Evidence:**  
-→ Workshop Recordings & Slides  
-→ Q&A Session Recordings  
+→ <a href="https://docs-virid-delta.vercel.app/Workshop%20Learning%20Center" target="_self">Workshop Recordings & Slides</a>  
+→ <a href="https://www.youtube.com/watch?v=g1lHQ9EnAKc" target="_self">Q&A Session Recordings</a>  
 → Attendance Verification Sheets
 
 ---
