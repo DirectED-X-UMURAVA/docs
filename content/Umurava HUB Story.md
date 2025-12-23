@@ -118,7 +118,7 @@ Every team set roles for technical work, coordination, documentation, and user e
 Hub Leads met daily to check progress, share insights, and support teams. These daily check-ins helped the hub work as one unit instead of separate groups.
 
 **Evidence:**  
-→ Hub Lead Daily Check-In Notes
+→ <a href="https://www.notion.so/directed/2a952c0383798027bfdacf38aac6e8de?v=2a952c03837980878ce5000c10f26bea" target="_self">Hub Lead Daily Check-In Notes</a>
 
 ---
 
@@ -148,12 +148,12 @@ We provided food and snacks for everyone, but there were moments when participan
 Participants came from different parts of Kigali and showed amazing commitment. Some had to travel a long way, balancing work, studies, and personal life, just to be there. The atmosphere was full of energy, focus, and a little friendly chaos.
 
 **Evidence:**  
-→ In-Person Hackathon Guide and Schedule  
-→ Event Photos & Media Folder
+→ <a href="https://docs-virid-delta.vercel.app/events/In-Person%20Hackathon%20Day" target="_self">In-Person Hackathon Guide and Schedule</a>  
+→ <a href="https://drive.google.com/drive/folders/1S11PTrMVO6_soWIYuDUCdF94iA-5MuXe">Event Photos & Media Folder</a>
 
 ---
 
-## Final Sprint and Submission
+## Final Sprint: Validation, Reviews, and Submissions (Dec 8–14)
 
 After the hackathon, teams worked hard to finish their projects. Each team had to:
 
@@ -167,11 +167,25 @@ After the hackathon, teams worked hard to finish their projects. Each team had t
 Technical reviews checked code, design, and alignment with community insights. Feedback was documented with clear next steps. Final submissions included MVPs, code, documentation, and pitch materials.
 
 **Evidence:**  
-→ Team Review SOP  
-→ Team Review Tracker Spreadsheet  
-→ Recorded MVP & Code Review Sessions
+→ <a href="https://directed.notion.site/HOW-TO-RUN-TEAM-REVIEWS-SOP-2c452c03837980a3975dd68cd900d5a7" target="_self">Team Review SOP</a>  
+
+### **Submission Management** 
+Final submissions included MVP demos, source code repositories, documentation, and pitch materials. All submissions were reviewed for completeness, accessibility, and requirement alignment before being archived and published.
+
+**Evidence:**  
+→ <a href="https://docs-virid-delta.vercel.app/Submission%20Guidelines" target="_self">Submission Guidelines</a>
+
+→ <a href="https://docs-virid-delta.vercel.app/Submission%20Guidelines/Stage%201%20Submission%20Guidelines" target="_self">Stage 1 Submission Tracker</a>
+
+→ <a href="https://docs-virid-delta.vercel.app/Submission%20Guidelines/Stage%202%20Submission%20Guidelines" target="_self">Stage 2 Submission Tracker</a>
+
+→ <a href="https://docs-virid-delta.vercel.app/Submission%20Guidelines/Stage%203%20Submission%20Guidelines" target="_self">Stage 3 Submission Tracker</a>
 
 ---
+
+## **Publishing as Part of the Learning Process**
+
+Publishing was treated as an extension of the action-learning journey rather than an administrative step. Final artefacts were organised, verified, and made accessible through the hub’s documentation structure, creating a coherent, traceable account of exploration, learning, iteration, and delivery.
 
 ## Challenges and How They Were Overcome
 
