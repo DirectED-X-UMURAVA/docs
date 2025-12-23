@@ -1,0 +1,51 @@
+# MVP & Demo
+## AfriMed Chain
+
+## Problem
+Despite Rwanda’s rapid digital transformation, our neighborhood exploration revealed a critical flaw the healthcare ecosystem operates as a series of Digital Islands. While individual clinics and insurers utilize modern systems, they are completely disconnected from one another. This fragmentation forces patients to act as the manual "bridge" in the system physically carrying crumpled paper records to blind doctors who unknowingly re-order expensive duplicate tests, and walking to multiple pharmacies to hunt for medicine because inventory data is invisible. The core problem is not a lack of technology, but a total lack of interoperability, creating a broken chain where data is locked in silos, insurance verification is slow, and the patient pays the price in both lost money and delayed care.
+
+## MVP
+### Scope
+A blockchain-powered healthcare data platform
+
+### Cardano Integration
+In AfriMed Chain, Cardano serves as the immutable Trust Anchor that secures the interaction between doctors, patients, and pharmacies without relying on a central intermediary. We utilize Cardano's Native Asset standard to tokenize prescriptions, treating each one as a unique digital asset (NFT) minted by the doctor and sent directly to the patient's non-custodial wallet. This ensures that the patient truly owns their medical rights as a bearer instrument.
+
+To strictly adhere to data privacy regulations like GDPR, we employ a Zero-Knowledge architecture where sensitive personal health information remains in an encrypted off-chain database. On-chain, we store only a cryptographic SHA-256 Hash (a digital fingerprint) within the token's metadata. This allows any pharmacy to mathematically verify the authenticity and origin of a prescription without exposing the patient’s specific diagnosis to the public ledger. Finally, we leverage Cardano's UTXO model to eliminate insurance fraud; once a pharmacy dispenses the medication, the smart contract executes a Burn transaction, permanently destroying the digital token. This mechanism makes it mathematically impossible for a patient to double-spend or reuse the same prescription at another location, solving the industry's massive problem of duplicate claims.
+
+## 🎥 Pitch
+<video
+  src="/AfriMedChain-Pitch.mp4"
+  controls
+  className="w-full rounded-lg mb-6"
+>
+  Your browser does not support the video tag.
+</video>
+
+## 🧪 Demo
+### Demo for Mobile users
+<iframe
+  src="https://www.youtube.com/shorts/rMtNmEuxrQI"
+  width="100%"
+  height="420"
+  frameBorder="0"
+  allow="autoplay; fullscreen; picture-in-picture"
+  allowFullScreen
+  className="rounded-lg mb-6"
+></iframe>
+
+### Hospital End
+<iframe
+  src="https://www.youtube.com/watch?v=Z3ZTXTnLWd8"
+  width="100%"
+  height="420"
+  frameBorder="0"
+  allow="autoplay; fullscreen; picture-in-picture"
+  allowFullScreen
+  className="rounded-lg mb-6"
+></iframe>
+
+
+## 🔗 Links
+Deployment: https://github.com/muhirwa23/afrimdechain
+GitHub: https://github.com/muhirwa23/afrimdechain 
