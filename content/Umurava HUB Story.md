@@ -62,7 +62,7 @@ Attendance was carefully tracked, and all sessions were recorded. Resources were
 **Evidence:**  
 → <a href="https://docs-virid-delta.vercel.app/Workshop%20Learning%20Center" target="_self">Workshop Recordings & Slides</a>  
 → <a href="https://www.youtube.com/watch?v=g1lHQ9EnAKc" target="_self">Q&A Session Recordings</a>  
-→ Attendance Verification Sheets
+→ <a href="https://drive.google.com/drive/folders/1e1AYfFWz-3CmKyO5k5oUPoe75RZAbDRf">Attendance Verification Sheets</a>
 
 ---
 
@@ -73,8 +73,8 @@ Every week, participants joined a Kahoot quiz. The questions came from the works
 It became a fun way to review what was learned. Winners got bragging rights, and everyone enjoyed seeing who would top the quiz that week. Sometimes the same people won over and over, and it became a running joke that they might need to start teaching the class next week!
 
 **Evidence:**  
-→ Weekly Kahoot Leaderboard  
-→ Kahoot Participation and Prizes Guide
+→ <a href="https://www.notion.so/directed/Kigali-Wall-Of-Fame-2a352c038379805ab9f0c77feab61007">Weekly Kahoot Leaderboard</a> 
+→ <a href="https://docs-virid-delta.vercel.app/events/Kahoots" target="_self">Kahoot Participation and Prizes Guide</a>
 
 ---
 

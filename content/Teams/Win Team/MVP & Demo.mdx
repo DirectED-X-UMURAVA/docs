@@ -15,30 +15,31 @@ A modernized Rwanda Crime Report System powered by Cardano blockchain technology
 #### Cardano Integration
 1. Core Blockchain Role
 Cardano serves as a permanent, tamper-proof ledger where all crime report metadata is anchored. Each submitted report is recorded using Cardano transaction metadata (label 674), providing:
-    • Immutability: Cannot be altered or deleted.
-    • Public Verification: Anyone can verify authenticity using blockchain explorers.
-    • Timestamping: Exact submission time is permanently recorded.
+        • Immutability: Cannot be altered or deleted.
+        • Public Verification: Anyone can verify authenticity using blockchain explorers.
+        • Timestamping: Exact submission time is permanently recorded.
 
 2. Technical Implementation
-Libraries & APIs Used:
-    • PyCardano: Python library for Cardano blockchain interaction.
-    • Blockfrost API: Infrastructure for communicating with Cardano nodes.
+    Libraries & APIs Used:
+        • PyCardano: Python library for Cardano blockchain interaction.
+        • Blockfrost API: Infrastructure for communicating with Cardano nodes.
 
-Network:
-    • Currently deployed on Cardano Preview Testnet.
-    • Production will use Mainnet.
-    • Blockfrost endpoint: https://cardano-preview.blockfrost.io/api.
+    Network:
+        • Currently deployed on Cardano Preview Testnet.
+        • Production will use Mainnet.
+        • Blockfrost endpoint: https://cardano-preview.blockfrost.io/api.
 
-Transaction Structure:
-    • Metadata contains the report hash and essential details.
+    Transaction Structure:
+        • Metadata contains the report hash and essential details.
 
 3. Data Flow Architecture
 
     Step-by-Step Process:
-        1.        Evidence Storage: Photos/videos uploaded to IPFS (InterPlanetary File System).
-        2.        Hash Generation: IPFS returns a Content Identifier (CID), a cryptographic hash of the file.
-        3.        Blockchain Anchoring: CID + report metadata written to Cardano via transaction.
-        4.        Verification Certificate: Transaction hash returned as proof of blockchain anchoring.
+        A.        Evidence Storage: Photos/videos uploaded to IPFS (InterPlanetary File System).
+        B.        Hash Generation: IPFS returns a Content Identifier (CID), a cryptographic hash of the file.
+        C.        Blockchain Anchoring: CID + report metadata written to Cardano via transaction.
+        D.        Verification Certificate: Transaction hash returned as proof of blockchain anchoring.
+
 
 4. Smart Contract Integration
         •        MVP uses transaction metadata for simplicity.
