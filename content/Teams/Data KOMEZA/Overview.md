@@ -12,3 +12,6 @@
 
 ## **Pages**
 ---
+🧭 <a href="https://docs-virid-delta.vercel.app/Teams/Data%20KOMEZA/Community%20Essence%20Map" target="_self">Community Essence Map</a>
+🗺️ <a href="https://docs-virid-delta.vercel.app/Teams/Data%20KOMEZA/Stakeholder%20Map" target="_self">Stakeholder Map</a>
+🧠 <a href="https://docs-virid-delta.vercel.app/Teams/Data%20KOMEZA/Team%20Reflection" target="_self">Team Reflection Summary</a>

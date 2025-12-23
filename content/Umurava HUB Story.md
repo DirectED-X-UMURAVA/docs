@@ -108,8 +108,7 @@ Every team set roles for technical work, coordination, documentation, and user e
 
 
 
-→ Team Workspace & Repository Index  
-→ Team Formation Call Recording
+
 
 ---
 
