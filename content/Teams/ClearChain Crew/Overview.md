@@ -14,7 +14,7 @@
 **NIYOMUGABO Frederic** - Community Member
 
 ## **Pages**
----
+
 🧭 <a href="https://docs-virid-delta.vercel.app/Teams/ClearChain%20Crew/Community%20Essence%20Map" target="_self">Community Essence Map</a>
 🗺️ <a href="https://docs-virid-delta.vercel.app/Teams/ClearChain%20Crew/Stakeholder%20Map" target="_self">Stakeholder Map</a>
 🧠 <a href="https://docs-virid-delta.vercel.app/Teams/ClearChain%20Crew/Team%20Reflection" target="_self">Team Reflection Summary</a>
