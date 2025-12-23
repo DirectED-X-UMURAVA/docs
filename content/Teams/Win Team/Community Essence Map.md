@@ -1,6 +1,6 @@
-#  **Rwanda Crime Report System powered by Cardano Blockchain technology**
+# **Community Essence Map**  
 
-**Community Essence Map**
+**Rwanda Crime Report System powered by Cardano Blockchain technology**
 
 During community exploration, several powerful stories and observations emerged that reveal
 the lived reality around crime reporting in Rwanda. Many citizens expressed fear of reporting

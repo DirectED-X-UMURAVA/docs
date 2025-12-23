@@ -15,66 +15,70 @@ A modernized Rwanda Crime Report System powered by Cardano blockchain technology
 #### Cardano Integration
 1. Core Blockchain Role
 Cardano serves as a permanent, tamper-proof ledger where all crime report metadata is anchored. Each submitted report is recorded using Cardano transaction metadata (label 674), providing:
-•        Immutability: Cannot be altered or deleted.
-•        Public Verification: Anyone can verify authenticity using blockchain explorers.
-•        Timestamping: Exact submission time is permanently recorded.
+    • Immutability: Cannot be altered or deleted.
+    • Public Verification: Anyone can verify authenticity using blockchain explorers.
+    • Timestamping: Exact submission time is permanently recorded.
 
 2. Technical Implementation
 Libraries & APIs Used:
-•        PyCardano: Python library for Cardano blockchain interaction.
-•        Blockfrost API: Infrastructure for communicating with Cardano nodes.
+    • PyCardano: Python library for Cardano blockchain interaction.
+    • Blockfrost API: Infrastructure for communicating with Cardano nodes.
+
 Network:
-•        Currently deployed on Cardano Preview Testnet.
-•        Production will use Mainnet.
-•        Blockfrost endpoint: https://cardano-preview.blockfrost.io/api.
+    • Currently deployed on Cardano Preview Testnet.
+    • Production will use Mainnet.
+    • Blockfrost endpoint: https://cardano-preview.blockfrost.io/api.
+
 Transaction Structure:
-•        Metadata contains the report hash and essential details.
+    • Metadata contains the report hash and essential details.
 
 3. Data Flow Architecture
-Step-by-Step Process:
-1.        Evidence Storage: Photos/videos uploaded to IPFS (InterPlanetary File System).
-2.        Hash Generation: IPFS returns a Content Identifier (CID), a cryptographic hash of the file.
-3.        Blockchain Anchoring: CID + report metadata written to Cardano via transaction.
-4.        Verification Certificate: Transaction hash returned as proof of blockchain anchoring.
+
+    Step-by-Step Process:
+        1.        Evidence Storage: Photos/videos uploaded to IPFS (InterPlanetary File System).
+        2.        Hash Generation: IPFS returns a Content Identifier (CID), a cryptographic hash of the file.
+        3.        Blockchain Anchoring: CID + report metadata written to Cardano via transaction.
+        4.        Verification Certificate: Transaction hash returned as proof of blockchain anchoring.
+
 4. Smart Contract Integration
-•        MVP uses transaction metadata for simplicity.
-•        Future support for Plutus smart contracts via Aiken language:
-o        Contract file: validators/rrs_validator.ak
-o        Enables automated evidence validation and multi-signature verification by law enforcement.
+        •        MVP uses transaction metadata for simplicity.
+        •        Future support for Plutus smart contracts via Aiken language:
+        o        Contract file: validators/rrs_validator.ak
+        o        Enables automated evidence validation and multi-signature verification by law enforcement.
 
 5. Security Features Enabled by Cardano
- Chain of Custody: Every evidence hash has a verifiable on-chain timestamp.
- Non-Repudiation: Reporters cannot deny submitting evidence.
- Tamper Detection: Any modification changes the hash, breaking the blockchain link.
- Decentralization: No single entity controls the evidence record.
- Audit Trail: Complete history accessible via Cardano explorers.
+    Chain of Custody: Every evidence hash has a verifiable on-chain timestamp.
+    Non-Repudiation: Reporters cannot deny submitting evidence.
+    Tamper Detection: Any modification changes the hash, breaking the blockchain link.
+    Decentralization: No single entity controls the evidence record.
+    Audit Trail: Complete history accessible via Cardano explorers.
 
 6. Wallet & Transaction Management
-•        Payment Wallet: Uses payment.skey for signing.
-•        Network: Cardano Preview Testnet (Network.TESTNET).
-•        Minimum ADA: 1.5 ADA per transaction (covers metadata + min UTXO).
-•        Transaction Builder: PyCardano TransactionBuilder handles UTXO management.
+    •        Payment Wallet: Uses payment.skey for signing.
+    •        Network: Cardano Preview Testnet (Network.TESTNET).
+    •        Minimum ADA: 1.5 ADA per transaction (covers metadata + min UTXO).
+    •        Transaction Builder: PyCardano TransactionBuilder handles UTXO management.
 
 7. Verification Capabilities
 Users receive a blockchain verification certificate containing:
-•        Report Reference Code: RRS-2024-XXXXX
-•        Transaction Hash: 7a3b2c...def456
-•        Block Number & Timestamp
-•        IPFS Evidence Link: ipfs://QmX7f...
-•        Cardano Explorer URL for public verification.
+        •        Report Reference Code: RRS-2024-XXXXX
+        •        Transaction Hash: 7a3b2c...def456
+        •        Block Number & Timestamp
+        •        IPFS Evidence Link: ipfs://QmX7f...
+        •        Cardano Explorer URL for public verification.
 
 8. Why Cardano?
-•        Low Transaction Costs: ~0.17 ADA ($0.10) vs. Ethereum $5–50.
-•        Energy Efficient: Proof-of-Stake vs. Bitcoin’s Proof-of-Work.
-•        Metadata Support: Native transaction metadata (label 674) without smart contracts.
-•        Scalable: Hydra Layer 2 enables high-volume reporting.
-•        African Focus: Aligns with Rwanda’s digital transformation and developing nation priorities.
+        •        Low Transaction Costs: ~0.17 ADA ($0.10) vs. Ethereum $5–50.
+        •        Energy Efficient: Proof-of-Stake vs. Bitcoin’s Proof-of-Work.
+        •        Metadata Support: Native transaction metadata (label 674) without smart contracts.
+        •        Scalable: Hydra Layer 2 enables high-volume reporting.
+        •        African Focus: Aligns with Rwanda’s digital transformation and developing nation priorities.
 
 9. Production Deployment Plan
-•        Switch to Cardano Mainnet.
-•        Integrate Atala PRISM for decentralized identity (reporter authentication).
-•        Deploy Plutus validators for automated evidence lifecycle management.
-•        Implement multi-signature wallets for law enforcement access control.
+        •        Switch to Cardano Mainnet.
+        •        Integrate Atala PRISM for decentralized identity (reporter authentication).
+        •        Deploy Plutus validators for automated evidence lifecycle management.
+        •        Implement multi-signature wallets for law enforcement access control.
 
 
 
@@ -102,4 +106,5 @@ Users receive a blockchain verification certificate containing:
 
 ### 🔗 Links
 Deployment: https://9zwdljrg-8000.inc1.devtunnels.ms/
+
 GitHub: https://github.com/Pro-divin/Rwanda-Crime-Report-System
