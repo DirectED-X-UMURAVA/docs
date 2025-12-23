@@ -86,8 +86,28 @@ At the same time, some participants came with friends or colleagues they were al
 
 Every team set roles for technical work, coordination, documentation, and user experience. Teams created shared workspaces and repositories and began moving from discussion to action. By the end of this phase, every participant had a team and a clear project direction.
 
-**Evidence:**  
-→ Team List & Role Assignments  
+**Evidence:**    
+> **Evidence:**
+
+| Team Name           | Team Members List | Focus Area                                                                                                                                                                     |
+| ------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Afrimed Chain**   | members           | A blockchain-powered healthcare data platform                                                                                                                                  |
+| **Champs**          | members           | A Platform leveraging blockchain technology and stablecoins to deliver a **fast, low-cost, and inclusive remittance platform**.                                                |
+| **Clearchain Crew** | members           | A blockchain-powered solution designed to bring fairness, transparency, and trust to rental agreements worldwide.                                                              |
+| **CupTrace**        | members           | A digital, farmer-centered traceability and governance platform designed to transform Rwanda’s coffee and tea value chains.                                                    |
+| **DATA Komeza**     | members           | A platform providing **quantum-resistant, blockchain-based medical data verification platform** that ensures long-term security, transparency, and interoperability.           |
+| **E-Tsinda**        | members           | A digital management platform designed to modernize and secure Rwanda’s traditional community savings groups, commonly known as Itsinda or Ibimina.                            |
+| **KryptoMina**      | members           | A blockchain-powered **ibimina (traditional savings group) platform** designed to modernize and secure community savings systems using the **Cardano blockchain**.             |
+| **UniChain**        | members           | A blockchain-based Identity, Credential & Finance Verification System                                                                                                          |
+| Win Team            | members           | A modernized **Rwanda Crime Report System** powered by **Cardano blockchain technology**, built to make crime reporting in Rwanda safer, more transparent, and more efficient. |
+| FloxBlock           | members           | A blockchain-powered solution that introduces a **secure, transparent, and accessible ledger** for community savings groups.                                                   |
+
+
+
+
+
+
+
 → Team Workspace & Repository Index  
 → Team Formation Call Recording
 
