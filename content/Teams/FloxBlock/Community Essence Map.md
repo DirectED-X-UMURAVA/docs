@@ -1,5 +1,15 @@
-# FloxBlock at Kigali 
+# Community Essence Map 
 ## Place and Context
+
+<img
+  src="/"
+  alt="Umurava Team"
+  width="1200"
+  height="600"
+  className="rounded-lg mb-6"
+/>
+
+
 
 The community explored consists of informal savings groups commonly known as
 Ikimina in Rwanda. These groups are embedded in everyday life and serve as the

@@ -2,7 +2,7 @@
   {
     "name": "Promesse IREME",
     "role": "HUB Lead",
-    "photo": "/celine(2).png",
+    "photo": "/promesse.jpg",
     "profile_card_link": "/processes/evaluation",
     "links": [
       { "label": "Meet", "url": "https://cal.com/promesse", "icon": "FaPhone" },
@@ -21,7 +21,7 @@
   {
     "name": "Celine Fleurie Irankunda",
     "role": "Hub Communications",
-    "photo": "/celine.png",
+    "photo": "/celine (2).png",
     "profile_card_link": "/processes/ground-potentialising",
     "links": [
       { "label": "LinkedIn", "url": "https://www.linkedin.com/in/celine-fleurie-irankunda-983b621bb/", "icon": "FaLinkedinIn" }
